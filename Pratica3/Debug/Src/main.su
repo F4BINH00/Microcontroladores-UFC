@@ -1,0 +1,4 @@
+../Src/main.c:19:5:main	24	static
+../Src/main.c:43:6:GPIO_INIT	4	static
+../Src/main.c:55:6:SYSTICK_INIT	4	static
+../Src/main.c:64:6:SysTick_Handler	4	static
